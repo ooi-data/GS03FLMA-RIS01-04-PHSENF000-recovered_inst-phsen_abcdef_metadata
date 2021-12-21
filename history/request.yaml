@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: GS03FLMA-RIS01-04-PHSENF000-recovered_inst-phsen_abcdef_metadata
-last_request: '2021-12-06T20:30:07.427029Z'
+last_request: '2021-12-21T22:48:58.797542Z'
 response: https://raw.githubusercontent.com/ooi-data/GS03FLMA-RIS01-04-PHSENF000-recovered_inst-phsen_abcdef_metadata/main/history/response.json
 status: discontinued
